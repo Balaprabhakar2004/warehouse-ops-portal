@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const app = express();
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://YOUR-VERCEL-URL.vercel.app'],
+  origin: ['http://localhost:5173', 'https://warehouse-ops-portal.vercel.app'],
 }));
 app.use(express.json());
 
