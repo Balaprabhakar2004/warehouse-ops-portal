@@ -2,6 +2,13 @@
 
 A full-stack web application for tracking inventory and shipment status across multiple warehouses, with role-based access control for admins, managers, and staff.
 
+### 🔑 Demo Credentials for Testing
+- **Admin Role:** `admin@test.com` / `password123`
+- **Staff Role:** `staff@test.com` / `password123`
+
+## Try it live
+[Dashboard](https://warehouse-ops-portal.vercel.app) — explore live role-based dashboards and multi-warehouse inventory tracking.
+
 ## Problem it solves
 Manual, spreadsheet-based inventory tracking is error-prone and gives no real-time visibility into stock levels or shipment status across warehouses. This portal centralizes that into a single, role-aware system.
 
